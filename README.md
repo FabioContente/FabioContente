@@ -1,5 +1,7 @@
 FABIO CONTENTE
 ***
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style-flat-square&logo+Linkedin&logoColor+white&link+https://www.linkedin.com/in/fabio-contente-12263171)](https://www.linkedin.com/in/fabio-contente-12263171)
+
 Sejam bem-vindos ao meu perfil!
 ***
 About me
